@@ -18,10 +18,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a SW Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - 🎓 I’m graduated from Cairo University, Faculty of Engineering - Biomedical Department
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ☁️ I have some knowledge in DevOps and Cloud Computing technologies
+- :telescope: I’m working as a Software Validation Engineer and sometimes develope frontend and backend code to build full web applications.
+- ☁️ also I have some knowledge in DevOps and Cloud Computing technologies
 
 <!-- <p align="center">
   <a href="https://tcno.co"><img src="https://github.com/TcNobo/TcNobo/blob/main/TcNoCombinedLogo.svg" alt="TechNobo logo" width="60%"></a>
